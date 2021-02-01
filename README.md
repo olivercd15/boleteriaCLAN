@@ -1,8 +1,6 @@
 # boleteriaCLAN
 Aplicación Móvil en desarrollo, en el Framework de Ionic - Angular
 
-Aplicación Móvil en desarrollo, en el Framework de Ionic - Angular
-
 Se pueden visualizar las peliculas que se encuentran en cartelera, tambien se puede añadir uno o mas boletos de las peliculas disponibles a un "carrito".
 
 En el carrito se pueden gestionar los boletos seleccionados.
